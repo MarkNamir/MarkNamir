@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarkNamir
 - 👀 I’m interested in software development/data analysis
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on AI
+- 💞️ I’m looking to collaborate on scientific computing 
 - 📫 How to reach me MARKNDERITU553@GMAIL.COM/+254 702 535 482
 
 <!---
